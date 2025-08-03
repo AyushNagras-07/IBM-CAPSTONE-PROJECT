@@ -68,30 +68,6 @@ SpaceX's Falcon 9 rockets are partially reusable, which drastically reduces the 
   * False Positives: 2
 * Dashboards and maps provide interactive exploration of SpaceX data.
 
-## 📝 How to Run the Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/<your-username>/spacex-landing-prediction.git
-   cd spacex-landing-prediction
-   ```
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run Jupyter Notebooks to explore data and train models:
-
-   ```bash
-   jupyter notebook
-   ```
-4. Launch the Dash dashboard:
-
-   ```bash
-   python app/app.py
-   ```
-5. Open the dashboard in your browser at `http://127.0.0.1:8050`
 
 ## 📄 License
 
